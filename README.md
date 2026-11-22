@@ -8,7 +8,7 @@ The source for this text is [Joannes Carolus Thilo's (Johann Karl Thilo) 1853 ed
 
 This text is in the public domain. The contributors do not recognize any rights gained from digitization.
 
-The only intentional changes to the 1853 text are orthographical. For example, Thilo has ὥςτε instead of our current pattern os ὥστε. This text is in the `thilo` folder.
+The only intentional changes to the 1853 text are orthographical. For example, Thilo has ὥςτε instead of our current pattern of ὥστε. This text is in the `thilo` folder.
 
 ## Updated Text
 
